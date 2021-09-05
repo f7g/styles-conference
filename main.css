@@ -180,3 +180,13 @@ p {
   border: 1px solid #dfe2e5;
   padding: 10px 30px;
 }
+
+/*
+  ========================================
+  Home - index.html
+  ========================================
+*/
+
+.hero {
+  padding: 22px 80px 66px 80px;
+}
